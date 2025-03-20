@@ -1,5 +1,6 @@
 ## Abinawa-Tour-Seach
 Custom plugin project for travel data search
+
 **Other Plugin Required : ACF Pro**
 - Repeater Field
 - Post Object (Connecting with other custom post types)
@@ -9,6 +10,8 @@ Custom plugin project for travel data search
 - City/Location Data
 - Feature Advantages:
 
-**Keunggulan Fitur :**
+**Feature Advantages :**
 - Search for available tours/travel based on time
 - When data is found, users can make a booking through a message button linked to the WhatsApp application
+
+Project URL : https://abinawatravel.com/pesan/
